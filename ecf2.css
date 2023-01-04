@@ -1,0 +1,78 @@
+h1{
+    color: rgb(57, 140, 255);
+}
+
+.monContenu{
+
+}
+
+.cadre{
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    justify-content: center;
+    width: 25rem;
+    background-color: #fff;
+    margin: auto;
+    margin-top: 20rem;
+}
+
+.fond{
+    background-color: antiquewhite;
+    background-size: 100%;
+}
+
+#btn{
+    cursor: pointer;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    padding: 5px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    width: 7rem;
+    color: #fff;
+    background-color: rgb(57, 140, 255);
+    border:none;
+    font-weight: bold;
+
+}
+
+
+.mesElements{
+    display: flex;
+    flex-direction: column;
+    margin-top: 1rem;
+}
+
+.monel{
+    display: flex;
+    align-items: center;
+}
+
+input{
+    margin: 1rem;
+    border: none;
+    border-bottom: 1px solid rgb(223, 223, 223);
+    width: 100%;
+}
+
+.int::placeholder{
+    color: rgb(188, 188, 188);
+}
+
+img{
+    width: 20px;
+    height: 20px;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    border-top: 1px solid rgb(188, 188, 188);
+}
+
+.foo{
+    color: rgb(188, 188, 188);
+    margin-top: 10px;
+}
+
